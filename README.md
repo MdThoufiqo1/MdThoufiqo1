@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @MdThoufiqo1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hey 👋 What's up?
+I'm mohamed Thoufiq, a full stack developer💻
 
-<!---
-MdThoufiqo1/MdThoufiqo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About me
+T-shaped and Curious developer...👨‍💻
+Currently learning...📚
+Coffee Art Maestro...☕
+
+I code with
+javascript logo  react logo  nodejs logo  express logo  html5 logo  css3 logo  bootstrap logo  mysql logo  sqlite logo  python logo
+Connect with me
+linkedin logo instagram logo discord logo twitter logo
+Pinned
+ NxtWatch Public
